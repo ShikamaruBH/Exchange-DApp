@@ -1,0 +1,32 @@
+{
+    "31337": {
+        "Exchange": {
+            "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+        },
+        "SBH": {
+            "address": "0x663F3ad617193148711d28f5334eE4Ed07016602"
+        },
+        "WIBU": {
+            "address": "0x057ef64E23666F000b34aE31332854aCBd1c8544"
+        },
+        "QUY": {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        },
+        "explorerURL": "#"
+    },
+    "5": {
+        "Exchange": {
+            "address": "0x7B2991EA50178ad5406E1f8074EEdd23062019ac"
+        },
+        "SBH": {
+            "address": "0x45595b491d0614746437A17061dc40DaE031aC6F"
+        },
+        "WIBU": {
+            "address": "0x9D5da2DdAe51A5F4191FDbD85b943dA0Ecf2fAb1"
+        },
+        "QUY": {
+            "address": "0x0B6E3d4Da627588a32D772BEF534079b30936707"
+        },
+        "explorerURL": "https://goerli.etherscan.io/"
+    }
+}
