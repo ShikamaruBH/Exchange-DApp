@@ -59,7 +59,7 @@ const OrderBook = () => {
                     <tr>
                         <th>{symbols && symbols[1]}<img src={Sort} alt='Sort'/></th>
                         <th>{symbols && symbols[0]}/{symbols && symbols[1]}<img src={Sort} alt='Sort'/></th>
-                        <th>{symbols && symbols[2]}<img src={Sort} alt='Sort'/></th>
+                        <th>{symbols && symbols[0]}<img src={Sort} alt='Sort'/></th>
                     </tr>
                     </thead>
                     <tbody>
